@@ -1,0 +1,23 @@
+n_punto,detalle,resultado
+0,Crea un DataFrame frutas que luzca así,0
+1,,0
+2,,0
+3,Primeras y últimas filas del DataFrame Wine Reviews," country        variety                                   winery
+   Italy    White Blend                                  Nicosia
+Portugal Portuguese Red                      Quinta dos Avidagos
+      US     Pinot Gris                                Rainstorm
+      US       Riesling                               St. Julian
+      US     Pinot Noir                             Sweet Cheeks
+ Germany       Riesling Dr. H. Thanisch (Erben Müller-Burggraef)
+      US     Pinot Noir                                 Citation
+  France Gewürztraminer                          Domaine Gresser
+  France     Pinot Gris                     Domaine Marcel Deiss
+  France Gewürztraminer                         Domaine Schoffit"
+4,,0
+5,,0
+6,,0
+7,,0
+8,,0
+9,,0
+10,,0
+11,,0
